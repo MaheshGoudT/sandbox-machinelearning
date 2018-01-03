@@ -1,0 +1,11 @@
+*.DS_Store
+.idea
+*.iml
+target
+tmp
+*.tar
+*.ipr
+*.iws
+*.log
+*.ipynb_checkpoints
+*.pyc
